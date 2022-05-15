@@ -69,7 +69,7 @@ html {
   color: #F74780;
 }
 
-navbar {
+.navbar {
   min-height: 48px;
   width: 95%;
   margin: 5% auto;
