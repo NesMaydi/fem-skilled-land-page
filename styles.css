@@ -234,9 +234,9 @@ navbar {
   }
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 1124px) {
   .cardSection {
-    min-width: 1110px;
+    max-width: 1110px;
     max-height: 748px;
     -webkit-box-pack: justify;
         -ms-flex-pack: justify;
@@ -277,9 +277,9 @@ navbar {
   }
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 1124px) {
   .cardSection .cards {
-    min-width: 350px;
+    max-width: 350px;
     max-height: 346px;
   }
 }
